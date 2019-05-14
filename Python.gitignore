@@ -6,8 +6,8 @@ Project04OrientationDetection.pdf
 /archive/exampleRotation.py
 /archive/exampleScaler.py
 
-exampleAugment.py
-exampleEarlyStopping.py
-exampleMLP.py
-exampleRotation.py
-exampleScaler.py
+/exampleAugment.py
+/exampleEarlyStopping.py
+/exampleMLP.py
+/exampleRotation.py
+/exampleScaler.py
